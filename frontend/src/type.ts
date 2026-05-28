@@ -32,6 +32,7 @@ export type RootStackParamList = {
     htmlContent: string | undefined;
     translationSource?: ArticleTranslationSource;
   };
+  
   PreviewScreen: {
     article: string;
     title: string;
